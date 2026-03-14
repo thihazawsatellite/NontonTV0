@@ -1,10 +1,10 @@
 <resources>
     <!-- ==================== 应用基本信息和URL ==================== -->
-    <string name="app_name" translatable="false">Nonton TV</string>
+    <string name="app_name" translatable="false">MM ATV</string>
     <string name="website" translatable="false">https://github.com/hariimurti/NontonTV</string>
     <string name="telegram_group" translatable="false">https://t.me/paijemdev</string>
     <string name="iptv_playlist" translatable="false">https://bg.8862688.xyz/hn.m3u?from=%s</string>
-    <string name="json_release" translatable="false">https://github.com/hariimurti/NontonTV/raw/master/json/release.json</string>
+    <string name="json_release" translatable="false">https://github.com/thihazawsatellite/NontonTV0/blob/master/json/release.json</string>
     <string name="apk_release" translatable="false">https://github.com/hariimurti/NontonTV/releases/download/%s/net.harimurti.tv_%s_b%d.apk</string>
     <string name="gh_contributors" translatable="false">https://api.github.com/repos/hariimurti/NontonTV/contributors</string>
     <string name="main_contributors" translatable="false">harimurti, madbulls</string>
