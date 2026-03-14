@@ -82,7 +82,7 @@ class Preferences {
         set(value) = editor.putBoolean(REVERSE_NAVIGATION, value).apply()
 
     var countryId: String
-        get() = preferences.getString(COUNTRY_ID, "id") ?: "id"
+        get() = preferences.getString(COUNTRY_ID, "mm") ?: "mm"
         set(value) = editor.putString(COUNTRY_ID, value).apply()
 
     var sources: ArrayList<Source>?
